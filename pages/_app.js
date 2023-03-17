@@ -1,6 +1,6 @@
+import { Analytics } from '@vercel/analytics/react';
 import React from 'react';
 import '../styles/globals.scss';
-import { Analytics } from '@vercel/analytics/react';
 import { Layout } from '../components';
 
 function MyApp({ Component, pageProps }) {
